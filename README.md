@@ -61,7 +61,7 @@ http://localhost:8080/?loglevel=error
 
 ### Tests
 
-You can run the test suite using:
+You can run the test suite using: 
 
 ```
 npm run test
